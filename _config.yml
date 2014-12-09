@@ -2,7 +2,7 @@
 
 title:            GC Bytes
 locale:           en_US
-url:              http://localhost:4000
+url:              https://gc-site.herokuapp.com/
 
 
 # Jekyll configuration
