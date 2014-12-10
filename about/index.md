@@ -10,16 +10,16 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+Hello! My name is Gabriel and I'm a software developer. My main area's of focus are web applicaiton development, security, test automation and DevOps.
 
-## Minimal Mistakes is all about:
+## Things I use:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
-
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+* Ruby on Rails
+* ASP.NET MVC
+* Capybara and Selenium for UI Testing
+* RSpec and Jasmine for BDD
+* Kendo UI and jQuery
+* Bootstrap 3
+* Jenkins
+* Capistrano and Chef for deployment automation
+* MySQL and SQL Server
