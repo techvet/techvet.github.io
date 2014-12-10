@@ -2,9 +2,9 @@
 layout: post
 title: "Explicit Waits in Capybara"
 modified:
-categories: [testing, capybara, ruby]
+categories: testing
 excerpt:
-tags: []
+tags: [capybara, ruby]
 image:
   feature:
 date: 2014-12-09T21:55:21-06:00
