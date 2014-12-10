@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About the Theme
+title: About Me
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
@@ -10,7 +10,7 @@ image:
   creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Hello! My name is Gabriel and I'm a software developer. My main area's of focus are web applicaiton development, security, test automation and DevOps.
+Hello! My name is Gabriel and I'm a software developer. My main area's of focus are web application development, security, test automation and DevOps.
 
 ## Things I use:
 
