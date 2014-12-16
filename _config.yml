@@ -2,7 +2,7 @@
 
 title:            GC Bytes
 locale:           en_US
-url:              http://www.gcbytes.com
+url:              http://gcbytes-heroku.herokuapp.com
 
 
 # Jekyll configuration
@@ -35,7 +35,7 @@ owner:
   facebook: #username
   google:
     plus: #username
-    analytics: UA-57578603-1
+    analytics: 
     verify: 
     ad-client: 
     ad-slot: 
