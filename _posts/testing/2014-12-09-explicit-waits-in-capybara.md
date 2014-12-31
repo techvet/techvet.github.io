@@ -3,6 +3,7 @@ layout: post
 title: "Explicit Waits in Capybara"
 modified:
 categories: testing
+comments: true
 excerpt: Example of how to do an explicit wait with capybara.
 tags: [capybara, ruby]
 image:

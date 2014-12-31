@@ -2,7 +2,8 @@
 layout: post
 title: "Resources for Learning Ruby Part 1"
 modified:
-categories: 
+categories:
+comments: true
 excerpt: Ruby tutorials and references for ruby development
 tags: [Ruby]
 image:
