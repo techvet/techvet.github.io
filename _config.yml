@@ -2,7 +2,7 @@
 
 title:            GC Bytes
 locale:           en_US
-url:              http://techvet.github.io
+url:              http://gcbytes.com
 
 
 # Jekyll configuration
@@ -42,7 +42,7 @@ owner:
   bing-verify: 
   github: techvet
   stackoverflow: #http://stackoverflow.com/users/123456/username
-  linkedin: #username
+  linkedin: gcbytes
   instagram: #username
   lastfm: #username
   tumblr: #username
@@ -50,7 +50,7 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  youtube: #username
+  youtube: 
   soundcloud: #username
 
 include: [".htaccess"]

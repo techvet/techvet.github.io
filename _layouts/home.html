@@ -23,6 +23,9 @@
     {% endif %}
   alt="{{ page.title }} feature image">
   </div><!-- /.image-wrap -->
+  {% if page.image.credit %}
+    <span class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></span>
+ {% endif %}
 {% endif %}
 
 <div id="main" role="main"> 
