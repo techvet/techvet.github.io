@@ -4,7 +4,7 @@ title: " Up and Running with Selenium Web Driver, OWASP ZAP and Jenkins"
 modified:
 categories: testing
 comments: true
-excerpt: Example of how to do an explicit wait with capybara.
+excerpt: How easy it is to combine web driver with OWASP ZAP.
 tags: [selenium, ruby, owasp zap]
 image:
   feature:
