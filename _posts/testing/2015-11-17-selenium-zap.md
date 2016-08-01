@@ -13,7 +13,7 @@ date: 2015-11-17
 
 Here's how easy it is to use web driver and OWASP ZAP to scan your site for vunelerabilities. The goal is to get a report from ZAP and run tests in your continuos integration pipeline. This is a basic job configuration, advanced ZAP attacks and reporting can be added in the future.
 
-###Steps
+### Steps
 
 First thing you will need to do is get OWASP ZAP extracted into a directory on the build machine. You can skip this step if zap is already on the server.
 
