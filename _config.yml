@@ -2,7 +2,8 @@
 
 title:            GC Bytes
 locale:           en_US
-url:              http://gcbytes.com
+url:              https://gcbytes.com
+enforce_ssl: www.gcbytes.com
 
 
 # Jekyll configuration
