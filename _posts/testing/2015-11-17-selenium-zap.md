@@ -77,7 +77,7 @@ Thats it! ZAP is now shutdown.
 ### Putting it all together
 *A basic job configuration in jenkins with the configuration from above.*
 
-![jenkins](http://i.imgur.com/o8epqxN.png)
+![jenkins](https://i.imgur.com/o8epqxN.png)
 
 That's all you need to get up and running! Be careful with how you use OWASP ZAP since its a powerful security tool and always get permission before you start enabling any advanced attacks in the ZAP API.
 
