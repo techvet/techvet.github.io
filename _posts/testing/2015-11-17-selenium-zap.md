@@ -1,4 +1,15 @@
-
+---
+layout: post
+title: " Up and Running with Selenium Web Driver, OWASP ZAP and Jenkins"
+modified:
+categories: testing
+comments: true
+excerpt: How easy it is to combine web driver with OWASP ZAP.
+tags: [selenium, ruby, owasp zap]
+image:
+  feature:
+date: 2015-11-17
+---
 
 Here's how easy it is to use web driver and OWASP ZAP to scan your site for vunelerabilities. The goal is to get a report from ZAP and run tests in your continuos integration pipeline. This is a basic job configuration, advanced ZAP attacks and reporting can be added in the future.
 
@@ -6,11 +17,11 @@ Here's how easy it is to use web driver and OWASP ZAP to scan your site for vune
 
 First thing you will need to do is get OWASP ZAP extracted into a directory on the build machine. You can skip this step if zap is already on the server.
 
-```bash
+{% highlight bash %}
 wget -q https://github.com/zaproxy/zaproxy/releases/download/2.4.2/ZAP_2.4.2_Linux.tar.gz
 tar xvf ZAP_2.4.2_Linux.tar.gz
 cd ZAP_2.4.2
-```
+{% endhighlight %}
 
 Next we will start the ZAP Proxy which will give us access its API. All you need is at least Java 7 to run ZAP.
 
@@ -33,7 +44,7 @@ and
 
 For Ruby and Firefox it was as easy as the following:
 
-```ruby
+{% highlight ruby %}
 PROXY = 'localhost:8087'
 
 profile = Selenium::WebDriver::Firefox::Profile.new
@@ -44,7 +55,7 @@ profile.proxy = Selenium::WebDriver::Proxy.new(
 )
 
 driver = Selenium::WebDriver.for :firefox, :profile => profile
-```
+{% endhighlight %}
 
 After your web driver tests have successfully run we can now get a HTML report of anything ZAP has found during its test run via a simple `curl` command.
 
