@@ -42,3 +42,5 @@ This is my pick for best talk of the conference. It's ground breaking research i
 ![](http://i.imgur.com/mjfqjyk.gif)
 
 [Playlist of all GTAC 2016 Talks](https://www.youtube.com/watch?v=Ip7zakWF0CM&list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM)
+
+Subscribe to the [Google Testing Blog](https://testing.googleblog.com) to receive updates about next years GTAC and apply once they announce registration is open.
