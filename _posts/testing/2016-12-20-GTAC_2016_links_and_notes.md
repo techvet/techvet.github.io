@@ -36,8 +36,8 @@ This is my pick for best talk of the conference. It's ground breaking research i
 
 [*Supporting research paper by Rahul: Code Coverage for Suite Evaluation by Developers*](http://research.engr.oregonstate.edu/hci/sites/research.engr.oregonstate.edu.hci/files/papers/gopinath2014code_0.pdf)
 
-[**Talk:** Automated Telepresence Robot Driving](https://www.youtube.com/watch?v=NTbukEJPI8Q&index=3&list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM) Automating a robotics problem that was traditionally tested manually and required quite a bit of innovation and ingenuity to get working. People think testing and test automation is boring should see this and reconsider.
-![](http://i.imgur.com/gGZFWz1.gif)
+[**Talk:** Automated Telepresence Robot Driving](https://www.youtube.com/watch?v=NTbukEJPI8Q&index=3&list=PLSIUOFhnxEiAeGHYoBZCvEMY5wCOIpyOM) Automating a robotics problem that was traditionally tested manually and required quite a bit of innovation and ingenuity to get working. People that think testing and test automation is boring should see this and reconsider.
+![](http://i.imgur.com/gGNOHTI.gif)
 
 ![](http://i.imgur.com/mjfqjyk.gif)
 
